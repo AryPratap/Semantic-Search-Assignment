@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are pre-existing libraries like FAISS, which offers similarity search over vector embeddings. This projects deals with the implementation similar semantic search from scratch.
+There are pre-existing libraries like FAISS, which offers similarity search over vector embeddings. This projects deals with the implementation of semantic search over vector embeddings from scratch.
 
 ### Code structure
 ```
