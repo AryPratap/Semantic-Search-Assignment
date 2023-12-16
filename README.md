@@ -25,7 +25,6 @@ Sprih-Assignment
 └───  requirements.txt
 └─── notebooks
 |      └─── Semantic Search Scratch (Original Assignment)
-|      └─── FAISS (Reference material)
 └─── data
        └─── fine_food_reviews_1k.csv
        └─── fine_food_reviews_with_embeddings_1k.csv
@@ -33,6 +32,4 @@ Sprih-Assignment
 ### Notebooks
 The this repository consists of two notebooks:-
 - <b>Semantic_Search_Scratch.ipynb</b> : This notebooks includes the implementation of semantic search over vector embeddings from scratch.
-- <b>FAISS_implementation</b> : This is just a reference notebook that contains different semantic search implementations using FAISS library.
 
-The primary assignment is in the <b>Semantic_Search_Scratch.ipynb</b> and the other one is just for reference. 
