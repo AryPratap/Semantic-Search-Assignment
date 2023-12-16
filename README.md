@@ -19,8 +19,6 @@ There are pre-existing libraries like FAISS, which offers similarity search over
 
 ### Code structure
 ```
-Sprih-Assignment
-│   
 └───  README.md
 └───  requirements.txt
 └─── notebooks
