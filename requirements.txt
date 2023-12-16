@@ -2,4 +2,4 @@ openai
 cohere 
 tiktoken 
 sentence_transformers 
-faiss-cpu
+
