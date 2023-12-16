@@ -24,11 +24,11 @@ Sprih-Assignment
 └───  README.md
 └───  requirements.txt
 └─── notebooks
-|      └─── F1_curve.png
-|      └─── PR_curve.png
+|      └─── Semantic Search Scratch (Original Assignment)
+|      └─── FAISS (Reference material)
 └─── data
-       └─── F1_curve.png
-       └─── F1_curve.png
+       └─── fine_food_reviews_1k.csv
+       └─── fine_food_reviews_with_embeddings_1k.csv
 ```
 ### Notebooks
 The this repository consists of two notebooks:-
