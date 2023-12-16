@@ -31,5 +31,5 @@ Sprih-Assignment
 ```
 ### Notebooks
 This repository consists of two notebooks:-
-- <b>Semantic_Search_Scratch.ipynb</b> : This notebooks includes the implementation of semantic search over vector embeddings from scratch.
+- <b>Semantic_Search_Scratch.ipynb</b> : This notebook contains the implementation of semantic search over vector embeddings from scratch.
 
