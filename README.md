@@ -30,6 +30,6 @@ Sprih-Assignment
        └─── fine_food_reviews_with_embeddings_1k.csv
 ```
 ### Notebooks
-The this repository consists of two notebooks:-
+This repository consists of two notebooks:-
 - <b>Semantic_Search_Scratch.ipynb</b> : This notebooks includes the implementation of semantic search over vector embeddings from scratch.
 
